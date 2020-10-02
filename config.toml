@@ -1,0 +1,19 @@
+baseURL = "https://technologyflow/"
+languageCode = "en-us"
+publishDir="docs"
+title = "Techonology Flow | Blog by Fitzr Development"
+# Novela settings
+theme = "novela"
+
+paginate = 6
+
+[social]
+twitter= "https://twitter.com/maxboaxel"
+github= "https://github.com/maxandersson"
+linkedin= "https://www.linkedin.com/in/maxanderssons"
+instagram = "https://instagram.com/maxyloon"
+dribbble = "#"
+youtube = "#"
+
+[taxonomies]
+author = "authors"

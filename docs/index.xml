@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techonology Flow | Blog by Fitzr Development</title>
+    <link>https://technologyflow/</link>
+    <description>Recent content on Techonology Flow | Blog by Fitzr Development</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://technologyflow/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

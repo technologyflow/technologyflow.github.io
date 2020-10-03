@@ -12,8 +12,8 @@ twitter= "https://twitter.com/maxboaxel"
 github= "https://github.com/maxandersson"
 linkedin= "https://www.linkedin.com/in/maxanderssons"
 instagram = "https://instagram.com/maxyloon"
-dribbble = "#"
-youtube = "#"
+# dribbble = "#"
+# youtube = "#"
 
 [taxonomies]
 author = "authors"
